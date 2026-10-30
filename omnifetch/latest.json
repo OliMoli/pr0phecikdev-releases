@@ -1,0 +1,11 @@
+{
+  "android": {
+    "versionCode": 2,
+    "versionName": "1.1.0",
+    "url": "https://github.com/OliMoli/pr0phecikdev-releases/releases/tag/omnifetch-v1.1.0",
+    "notes": {
+      "pl": "Pierwsze publiczne wydanie",
+      "en": "First public release"
+    }
+  }
+}
