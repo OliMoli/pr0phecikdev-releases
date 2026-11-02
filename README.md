@@ -1,18 +1,18 @@
-# Pr0phecik Dev — releases
+# Pr0phecik Dev - releases
 
 Ready-to-run builds of my apps. This repository holds only finished releases, no source code.
 
 | App | Platform | Latest | Download |
 |---|---|---|---|
-| **Exosuit** — command center for AI coding agents (Claude Code, Codex, Antigravity, Grok Build, Cursor, local models) on the subscriptions you already have | Windows 10/11 (x64) | <!-- exosuit:version -->0.14.0<!-- /exosuit:version --> | <!-- exosuit:download -->[Exosuit-Setup-0.14.0.exe](https://github.com/OliMoli/pr0phecikdev-releases/releases/download/exosuit-v0.14.0/Exosuit-Setup-0.14.0.exe)<!-- /exosuit:download --> |
-| **OmniFetch** — video and music downloader for 1000+ sites, local, no ads, no tracking | Android 8+ | <!-- omnifetch:version -->1.1.0<!-- /omnifetch:version --> | <!-- omnifetch:download -->[OmniFetch-1.1.0.apk](https://github.com/OliMoli/pr0phecikdev-releases/releases/download/omnifetch-v1.1.0/OmniFetch-1.1.0.apk)<!-- /omnifetch:download --> |
+| **Exosuit** - command center for AI coding agents (Claude Code, Codex, Antigravity, Grok Build, Cursor, local models) on the subscriptions you already have | Windows 10/11 (x64) | <!-- exosuit:version -->0.14.0<!-- /exosuit:version --> | <!-- exosuit:download -->[Exosuit-Setup-0.14.0.exe](https://github.com/OliMoli/pr0phecikdev-releases/releases/download/exosuit-v0.14.0/Exosuit-Setup-0.14.0.exe)<!-- /exosuit:download --> |
+| **OmniFetch** - video and music downloader for 1000+ sites, local, no ads, no tracking | Android 8+ | <!-- omnifetch:version -->1.1.0<!-- /omnifetch:version --> | <!-- omnifetch:download -->[OmniFetch-1.1.0.apk](https://github.com/OliMoli/pr0phecikdev-releases/releases/download/omnifetch-v1.1.0/OmniFetch-1.1.0.apk)<!-- /omnifetch:download --> |
 
 All versions: [Exosuit](https://github.com/OliMoli/pr0phecikdev-releases/releases?q=exosuit&expanded=true) · [OmniFetch](https://github.com/OliMoli/pr0phecikdev-releases/releases?q=omnifetch&expanded=true)
 
 ## Install and update
 
-- **Exosuit:** download `Exosuit-Setup-x.y.z.exe` and run it. To update, run the newer installer — your settings, sessions and license stay. Exosuit tells you when a new version is out (in the sidebar).
-- **OmniFetch:** download `OmniFetch-x.y.z.apk` on the phone and open it (allow installing from your browser once). To update, install the newer APK over the old one — your downloads, library and license stay. OmniFetch shows “A new version is out” when there is one.
+- **Exosuit:** download `Exosuit-Setup-x.y.z.exe` and run it. To update, run the newer installer - your settings, sessions and license stay. Exosuit tells you when a new version is out (in the sidebar).
+- **OmniFetch:** download `OmniFetch-x.y.z.apk` on the phone and open it (allow installing from your browser once). To update, install the newer APK over the old one - your downloads, library and license stay. OmniFetch shows “A new version is out” when there is one.
 
 Windows SmartScreen may warn about an unknown publisher (the installer is not code-signed yet): **More info → Run anyway**.
 
