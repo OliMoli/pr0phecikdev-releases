@@ -5,7 +5,7 @@ Ready-to-run builds of my apps. This repository holds only finished releases, no
 | App | Platform | Latest | Download |
 |---|---|---|---|
 | **Exosuit** - command center for AI coding agents (Claude Code, Codex, Antigravity, Grok Build, Cursor, local models) on the subscriptions you already have | Windows 10/11 (x64) | <!-- exosuit:version -->0.14.0<!-- /exosuit:version --> | <!-- exosuit:download -->[Exosuit-Setup-0.14.0.exe](https://github.com/OliMoli/pr0phecikdev-releases/releases/download/exosuit-v0.14.0/Exosuit-Setup-0.14.0.exe)<!-- /exosuit:download --> |
-| **OmniFetch** - video and music downloader for 1000+ sites, local, no ads, no tracking | Android 8+ | <!-- omnifetch:version -->1.1.0<!-- /omnifetch:version --> | <!-- omnifetch:download -->[OmniFetch-1.1.0.apk](https://github.com/OliMoli/pr0phecikdev-releases/releases/download/omnifetch-v1.1.0/OmniFetch-1.1.0.apk)<!-- /omnifetch:download --> |
+| **OmniFetch** - video and music downloader for YouTube, TikTok, Instagram and many other sites, local, no ads, no tracking | Android 8+ | <!-- omnifetch:version -->1.1.0<!-- /omnifetch:version --> | <!-- omnifetch:download -->[OmniFetch-1.1.0.apk](https://github.com/OliMoli/pr0phecikdev-releases/releases/download/omnifetch-v1.1.0/OmniFetch-1.1.0.apk)<!-- /omnifetch:download --> |
 
 All versions: [Exosuit](https://github.com/OliMoli/pr0phecikdev-releases/releases?q=exosuit&expanded=true) · [OmniFetch](https://github.com/OliMoli/pr0phecikdev-releases/releases?q=omnifetch&expanded=true)
 
@@ -23,6 +23,8 @@ Both apps are free. Optional one-time upgrades: [Exosuit Pro](https://prophecik.
 ## Contact
 
 X: [@Pr0phecikDev](https://x.com/Pr0phecikDev) · pr0phecik.dev@gmail.com
+
+Like the apps? [Buy me a coffee](https://buycoffee.to/pr0phecikdev)
 
 ---
 
